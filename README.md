@@ -1,2 +1,2 @@
 # trabajo-grupal-git
-Trabajo práctico realidao por el grupo. Integrantes: Fabián Jopia, Bastián Miranda, Helen Gallardo.
+Trabajo práctico realizado en grupo. Integrantes: Fabián Jopia, Bastián Miranda, Helen Gallardo.
